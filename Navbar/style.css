@@ -38,12 +38,11 @@ body{
 }
 
 
-
 .navbar .right{
     display: flex;
     align-items: center;
     justify-content: start;
-    margin-left:15px;
+    margin-left:25px;
 }
 
    
